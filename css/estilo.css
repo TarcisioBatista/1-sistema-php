@@ -1,0 +1,25 @@
+.formulario{
+	padding:20px;
+	text-align: center;
+}
+
+.formulario table{
+	margin:0 auto;
+}
+.trabalhos-lista{
+
+	
+	padding: 50px;
+}
+
+.trabalhos-table{
+	border: 1px solid #ccc;
+	margin: 0 auto;
+	text-align:center;
+}
+.trabalhos-table td,th{
+	border: 1px solid #ccc;
+	padding: 5px;
+	background: #fff;
+	text-align:center;
+}
